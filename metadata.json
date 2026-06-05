@@ -1,0 +1,6 @@
+{
+  "name": "Exam Timetable & Invigilator Scheduler",
+  "description": "An interactive web application to schedule exams and automatically allocate invigilators within valid slots (7:30-12:15, 14:00-18:00, 19:00-22:00).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
